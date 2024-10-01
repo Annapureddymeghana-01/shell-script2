@@ -3,7 +3,7 @@
 Person1=Ram
 Person2=Raghu
 
-echo "$Person1: "Hi Raghu"
+echo "$Person1: "Hi $Person2"
 echo "$Person2: "Hello ra jaffa"
 echo "$Person1: "nuve pedha jaffa"
-echo "$Person2: ok idharam jaffalam le"
+echo "$Person2: "ok idharam jaffalam le"

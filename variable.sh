@@ -1,5 +1,9 @@
 #!bin/bash
-echo "Ram: "Hi Raghu"
-echo "Raghu: "Hello ra jaffa"
-echo "Ram: "nuve pedha jaffa"
-echo "Raghu: ok idharam jaffalam le"
+
+Person1=Ram
+Person2=Raghu
+
+echo "$Person1: "Hi Raghu"
+echo "$Person2: "Hello ra jaffa"
+echo "$Person1: "nuve pedha jaffa"
+echo "$Person2: ok idharam jaffalam le"

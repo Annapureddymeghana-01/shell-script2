@@ -1,9 +1,10 @@
 #!bin/bash
 
-for i int {1...100}
+for i in $@
 do 
- echo $id
+ yum install $i -y
 done
+
 
 
 
